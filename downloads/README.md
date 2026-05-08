@@ -1,10 +1,7 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [Data+Full+Original+Mobile+Legends+Langsung+100%25](./Data%2BFull%2BOriginal%2BMobile%2BLegends%2BLangsung%2B100%2525)
+- [details](./details)
 
 ---
 
